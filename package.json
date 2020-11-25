@@ -1,0 +1,30 @@
+{
+  "name": "@micro-os-plus/stm32-vectors",
+  "version": "1.0.0",
+  "description": "A source xPack with STM32 exceptions vectors.",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micro-os-plus/stm32-vectors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/micro-os-plus/stm32-vectors/issues"
+  },
+  "homepage": "https://github.com/micro-os-plus/stm32-vectors",
+  "keywords": [
+    "xpack"
+  ],
+  "author": {
+    "name": "Liviu Ionescu",
+    "email": "ilg@livius.net",
+    "url": "https://github.com/ilg-ul"
+  },
+  "license": "MIT",
+  "config": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "xpack": {}
+}
